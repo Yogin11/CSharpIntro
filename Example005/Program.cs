@@ -1,13 +1,19 @@
-﻿Console.Write("Введите имя пользователя: ");
-string username = Console.ReadLine();
-
-if (username == "Маша")
+﻿internal class Program
 {
-    Console.WriteLine("Отлично, Это МАША!!");
+    private static void Main(string[] args)
+    {
+        Console.Write("Введите имя пользователя: ");
+        string username = Console.ReadLine();
 
-}
-else
-{ 
-    Console.Write("Привет, ");
-    Console.WriteLine(username);
+        if (username == "МАША")
+        {
+            Console.WriteLine("Отлично, Это МАША!!");
+
+        }
+        else
+        {
+            Console.Write("Привет, ");
+            Console.WriteLine(username);
+        }
+    }
 }
