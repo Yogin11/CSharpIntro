@@ -13,3 +13,18 @@ H:\GEEKBRAINS\Programming\C Sharp\Examples\Example001UserHello\obj\Debug\net6.0\
 H:\GEEKBRAINS\Programming\C Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.pdb
 H:\GEEKBRAINS\Programming\C Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.genruntimeconfig.cache
 H:\GEEKBRAINS\Programming\C Sharp\Examples\Example001UserHello\obj\Debug\net6.0\ref\Example001UserHello.dll
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.csproj.AssemblyReference.cache
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.GeneratedMSBuildEditorConfig.editorconfig
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.AssemblyInfoInputs.cache
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.AssemblyInfo.cs
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.csproj.CoreCompileInputs.cache
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.dll
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\refint\Example001UserHello.dll
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.pdb
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\bin\Debug\net6.0\Example001UserHello.exe
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\bin\Debug\net6.0\Example001UserHello.deps.json
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\bin\Debug\net6.0\Example001UserHello.runtimeconfig.json
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\bin\Debug\net6.0\Example001UserHello.dll
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\bin\Debug\net6.0\Example001UserHello.pdb
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\Example001UserHello.genruntimeconfig.cache
+H:\GEEKBRAINS\Programming\C_Sharp\Examples\Example001UserHello\obj\Debug\net6.0\ref\Example001UserHello.dll

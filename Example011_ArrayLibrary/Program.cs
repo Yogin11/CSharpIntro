@@ -42,11 +42,11 @@ for (int i = 0; i < array.Length; i++)
 {
     Console.Write(array[i] + " ");
 } // Оказалось, что метод FillArray  не возвращает ничего, но меняет массив!!
-//PrintArray(array);
+PrintArray(array);
 Console.WriteLine();
 
 //int pos = Indexof(FillArray(array), 8);
-int pos = Indexof(array, 80);
+int pos = Indexof(array, 8);
 
 Console.WriteLine("Index of element: " + pos);
 

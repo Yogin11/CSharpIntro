@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\GEEKBRAINS\\Programming\\C Sharp\\Examples\\Example001UserHello\\Example001UserHello.csproj": {}
+    "H:\\GEEKBRAINS\\Programming\\C_Sharp\\Examples\\Example001UserHello\\Example001UserHello.csproj": {}
   },
   "projects": {
-    "H:\\GEEKBRAINS\\Programming\\C Sharp\\Examples\\Example001UserHello\\Example001UserHello.csproj": {
+    "H:\\GEEKBRAINS\\Programming\\C_Sharp\\Examples\\Example001UserHello\\Example001UserHello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\GEEKBRAINS\\Programming\\C Sharp\\Examples\\Example001UserHello\\Example001UserHello.csproj",
+        "projectUniqueName": "H:\\GEEKBRAINS\\Programming\\C_Sharp\\Examples\\Example001UserHello\\Example001UserHello.csproj",
         "projectName": "Example001UserHello",
-        "projectPath": "H:\\GEEKBRAINS\\Programming\\C Sharp\\Examples\\Example001UserHello\\Example001UserHello.csproj",
+        "projectPath": "H:\\GEEKBRAINS\\Programming\\C_Sharp\\Examples\\Example001UserHello\\Example001UserHello.csproj",
         "packagesPath": "C:\\Users\\Maximus\\.nuget\\packages\\",
-        "outputPath": "H:\\GEEKBRAINS\\Programming\\C Sharp\\Examples\\Example001UserHello\\obj\\",
+        "outputPath": "H:\\GEEKBRAINS\\Programming\\C_Sharp\\Examples\\Example001UserHello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maximus\\AppData\\Roaming\\NuGet\\NuGet.Config"
