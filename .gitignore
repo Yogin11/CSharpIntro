@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# My adds
+Example001UserHello/obj/
+Example001Hello/obj/
+Example001Hello/bin/
